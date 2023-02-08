@@ -1,1 +1,2 @@
-working with shell
+#!/bin/bash
+Shell_basics
